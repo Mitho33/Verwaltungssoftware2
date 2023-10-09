@@ -1,0 +1,23 @@
+﻿<Application x:Class="WpfXmlDataSEt.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfXmlDataSEt"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ControlTemplate x:Key="logo" TargetType="Label" >
+            <Grid Width="70" HorizontalAlignment="Right" Background="LightGray">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition ></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="Links" Text="VBA" TextWrapping="Wrap" Background="Brown" Opacity="0.8"  Height="50"  Width="14" Grid.Column="0" />
+                <TextBox x:Name="LinKsMitte" Text="C#" Background="Brown" TextWrapping="Wrap" Opacity="0.8"   Height="50"  Width="14" Grid.Column="1"  />
+                <TextBox x:Name="RechtsMitte"  Text="C++" Background="Brown" TextWrapping="Wrap" Opacity="0.8"  Height="50"  Width="14" Grid.Column="2" />
+                <TextBox x:Name="Rechts"   Text="XML" Background="Brown" TextWrapping="Wrap" Opacity="0.8"    Height="50"  Width="14" Grid.Column="3" />
+
+            </Grid>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>

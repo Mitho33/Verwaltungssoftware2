@@ -1,0 +1,52 @@
+﻿<Window x:Class="WpfXmlDataSEt.Bibverwaltung"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfXmlDataSEt"
+        mc:Ignorable="d"
+        Title="Bibverwaltung" Height="auto" Width="auto">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.5*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="LightPink" Grid.Column="0"/>
+        <Rectangle Fill="LightGreen" Grid.Column="1"/>
+        <StackPanel HorizontalAlignment="Center" Grid.Column="0" Width="360" Margin="18,30,18,10">
+            <TextBox Text="Verwaltung Bibliothek" HorizontalAlignment="Left" FontSize="25"/>
+            <DataGrid x:Name="datagrid"  HorizontalAlignment="Left" ItemsSource="{Binding Buchliste}"  >
+                <!-- Eigenschaftsmethode der Collection des ViewModells Buchauflistung: ObservableCollection<Buch>Buchliste-->
+            </DataGrid>
+        </StackPanel>
+        <StackPanel  Grid.Column="1" Margin="131,250,0,10" >
+            <Button Content="Hinzufügen" x:Name="CdbHinzufügen" Width="80" Height="30" Click="CdbHinzufügen_Click"></Button>
+            <Button Content="Löschen" x:Name="CdbLöschen" Width="80" Height="30" Click="CdbLöschen_Click"></Button>
+            <Button Content="Zurück" x:Name="CdbZurück" Width="80" Height="30" Click="CdbZurück_Click"></Button>
+        </StackPanel>
+    
+        <StackPanel    Grid.Column="1" Margin="40,30,167,97">
+            <TextBox  x:Name="TbId" Background="LightGray" HorizontalAlignment="Left" Height="44"  VerticalAlignment="Top" Width="109">
+                <Binding ElementName="datagrid" Path="SelectedItem.ID" />
+            </TextBox>
+            <TextBox  x:Name="TbAutor" Background="LightGray" HorizontalAlignment="Left" Height="44" TextWrapping="Wrap"  VerticalAlignment="Top" Width="109">
+                <Binding ElementName="datagrid" Path="SelectedItem.Autor" />
+            </TextBox>
+            <TextBox  x:Name="TbTitel" Background="LightGray" Height="44" HorizontalAlignment="Left" TextWrapping="Wrap"  VerticalAlignment="Top" Width="109" >
+                <Binding ElementName="datagrid" Path="SelectedItem.Titel" />
+            </TextBox>
+            <TextBox  x:Name="TbSignatur" Background="LightGray" HorizontalAlignment="Left" Height="44" TextWrapping="Wrap"  VerticalAlignment="Top" Width="109">
+                <Binding ElementName="datagrid" Path="SelectedItem.Signatur" />
+            </TextBox>
+            <TextBox  x:Name="TbPerson" Background="LightGray" HorizontalAlignment="Left" Height="44" TextWrapping="Wrap"  VerticalAlignment="Top" Width="109">
+                <Binding ElementName="datagrid" Path="SelectedItem.Person" Mode="TwoWay" />
+            </TextBox>
+            <DatePicker x:Name="DpDatum" Background="LightGray" HorizontalAlignment="Left" Height="44"  Text="" VerticalAlignment="Top" Width="109"/>
+        </StackPanel>
+        <Label  Grid.Column="1" Width="100" Height="60"  
+               Template="{StaticResource logo}" Margin="195,30,22,329"  >
+        </Label>
+        <TextBox Grid.Column="1"  Text="" x:Name="TbLöschen" HorizontalAlignment="Left" Height="33" Margin="195,149,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="76"/>
+
+    </Grid>
+</Window>

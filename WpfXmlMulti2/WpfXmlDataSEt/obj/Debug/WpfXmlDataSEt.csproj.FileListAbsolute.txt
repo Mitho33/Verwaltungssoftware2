@@ -1,0 +1,184 @@
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\WpfXmlDataSEt\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\Xml\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\USUB\Desktop\XmlMVVM\WpfXmlDataSetMVVM\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\Ausleihe.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\Bibverwaltung.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\Rückgabe.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\App.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\Ausleihe.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\Bibverwaltung.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\Rückgabe.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti1\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Ausleihe.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Bibverwaltung.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Rückgabe.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\App.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Ausleihe.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Bibverwaltung.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Rückgabe.baml
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Ausleihe.g.cs
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Bibverwaltung.g.cs
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Rückgabe.g.cs
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\App.baml
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Ausleihe.baml
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Bibverwaltung.baml
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Rückgabe.baml
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Ausleihe.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Bibverwaltung.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Rückgabe.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\App.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Ausleihe.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Bibverwaltung.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Rückgabe.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe.config
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.exe
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\bin\Debug\WpfXmlDataSEt.pdb
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.AssemblyReference.cache
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Ausleihe.g.cs
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Bibverwaltung.g.cs
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\MainWindow.g.cs
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Rückgabe.g.cs
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\App.g.cs
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.cache
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt_MarkupCompile.lref
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\App.baml
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Ausleihe.baml
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Bibverwaltung.baml
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\MainWindow.baml
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\Rückgabe.baml
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.g.resources
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.Properties.Resources.resources
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.GenerateResource.cache
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.csproj.CoreCompileInputs.cache
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.exe
+D:\2021_1\ITA\Wendland\BibliothekIFK\WpfXmlMulti2\WpfXmlDataSEt\obj\Debug\WpfXmlDataSEt.pdb

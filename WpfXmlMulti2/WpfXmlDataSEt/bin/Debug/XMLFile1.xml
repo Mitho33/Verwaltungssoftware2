@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<Bib1>
+  <Buch Id="2" Autor="Schrödinger" Titel="C#" Signatur="102" Person="frei" Datum="22.02.2021 00:00:00" />
+  <Buch Id="3" Autor="Kühnel" Titel="Visual Studio" Signatur="103" Person="van Halen" Datum="02.03.2021" />
+  <Buch Id="4" Autor="Wollenhaupt" Titel="Grappa reist" Signatur="104" Person="Müller" Datum="10.03.2021 00:00:00" />
+</Bib1>
